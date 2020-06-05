@@ -86,3 +86,28 @@ Then the content should be unique and reflect the skills and personality of the 
     - A question within the context of today's lab assignment
     - An observation about the lab assignment, or related 'Ah-hah!' moment
     - How long you spent working on this assignment
+
+
+## Time Estimates
+
+Number and name of feature: Feature 01
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 8:24 PM PDT
+
+Finish time: 9:38 PM PDT
+
+Actual time needed to complete: One and a quarter hours or so.
+
+(***)
+
+Number and name of feature: Feature 02
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 9:39 PM PDT
+
+Finish time: _____
+
+Actual time needed to complete: _____
