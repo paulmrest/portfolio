@@ -1,5 +1,12 @@
-/* Row */
+/* .slick-carousel-portfolio {
+  width: 75%;
+} */
 
+/* #portfolio-grid {
+  display: grid;
+} */
+
+/* Row */
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -1974,7 +1981,7 @@ button,
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-image: url("../../images/gears-background.jpg");
     }
 
     #main > section.two {
