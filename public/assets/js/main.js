@@ -121,3 +121,10 @@
 				});
 
 })(jQuery);
+
+$(document).ready(function() {
+//Slick image carousel initialization
+$('.slick-carousel-portfolio').slick({
+  	dots:true
+  });
+});

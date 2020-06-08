@@ -90,6 +90,8 @@ Then the content should be unique and reflect the skills and personality of the 
 
 ## Time Estimates
 
+### Lab 04
+
 Number and name of feature: Feature 01
 
 Estimate of time needed to complete: 2 hours
@@ -111,3 +113,26 @@ Start time: 9:39 PM PDT
 Finish time: _____
 
 Actual time needed to complete: _____
+
+### Lab 05
+
+Number and name of feature: Feature 01 - Deploy Site to Heroku
+
+Estimate of time needed to complete: unsure
+
+Start time: 10:30 AM PDT
+
+Finish time: 4:45 PM PDT
+
+Actual time needed to complete: including rewatching the last hour and a half of lecture on Friday (I was so brain dead), maybe
+2 hours. Just writing the code and deploying, maybe 30 minutes?
+
+Number and name of feature: Feature 02 - Add Functionality
+
+Estimate of time needed to complete: 2 - 3 hours
+
+Start time: 5:00 PM PDT
+
+Finish time: 8:14 PM PDT
+
+Actual time needed to complete: not complete, but I worked on this for 3 hours and fourteen minutes.
